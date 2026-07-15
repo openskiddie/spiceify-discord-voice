@@ -1,3 +1,4 @@
+![Spotify VC Preview](preview.png)
 # Spicetify Discord VC Tracker
 
 A custom Spicetify extension that injects a live Discord Voice Channel widget directly into the Spotify sidebar. It displays the current channel, active members, and live speaking indicators.
